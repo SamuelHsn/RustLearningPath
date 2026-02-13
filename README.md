@@ -79,6 +79,8 @@ By the end of this learning path, you will:
 
 ## 🔗 Additional Resources
 
+- [Quick Reference Cheat Sheet](CHEATSHEET.md) - Handy syntax reference
+- [Project Ideas](projects/README.md) - Real-world projects to build after completing the course
 - [The Rust Book](https://doc.rust-lang.org/book/) - Official comprehensive guide
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) - Learn by example
 - [Rustlings](https://github.com/rust-lang/rustlings) - Small exercises to get you used to reading and writing Rust code
