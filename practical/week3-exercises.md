@@ -523,8 +523,8 @@ let result = some_option
 
 **Master these concepts!** They're fundamental to idiomatic Rust.
 
-When ready, move to [Week 4 Theory: Error Handling](../theory/week4-error-handling.md)
+When ready, move to [Week 4 Theory: Error Handling](../theory/week4-errors.md)
 
 ---
 
-[← Theory](../theory/week3-types.md) | [Home](../README.md) | [Next: Week 4 Theory →](../theory/week4-error-handling.md)
+[← Theory](../theory/week3-types.md) | [Home](../README.md) | [Next: Week 4 Theory →](../theory/week4-errors.md)

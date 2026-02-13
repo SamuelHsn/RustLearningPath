@@ -579,4 +579,4 @@ When ready, continue to [Week 5 Theory](../theory/week5-collections.md)
 
 ---
 
-[← Theory](../theory/week4-error-handling.md) | [Home](../README.md) | [Next: Week 5 Theory →](../theory/week5-collections.md)
+[← Theory](../theory/week4-errors.md) | [Home](../README.md) | [Next: Week 5 Theory →](../theory/week5-collections.md)
